@@ -1,5 +1,5 @@
 # WPF-AsynchronousProgrammingSample
 
 
-<img src="~/Images/UI.png" alt="Smiley face" height="42" width="42">
+<img src="Images/UI.png" alt="UI" height="42" width="42">
 
